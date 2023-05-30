@@ -9,8 +9,6 @@ This project is a Java application developed to solve the Travelling Salesman Pr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
